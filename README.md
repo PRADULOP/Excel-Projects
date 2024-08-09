@@ -44,8 +44,7 @@ You are free to explore and use the projects in this repository. Each project fo
 ### Running the Projects
 
 1. **Open the Excel file:** Double-click on the `.xlsx` or `.xlsm` file to open it in Excel.
-2. **Follow the instructions:** Each project has its own set of instructions, which are either included in the Excel file or in the corresponding README file.
-3. **Interact with the file:** Use the features like buttons, pivot tables, or charts as instructed.
+2. **Interact with the file:** Use the features like buttons, pivot tables, or charts.
 
 ## Contributing
 
