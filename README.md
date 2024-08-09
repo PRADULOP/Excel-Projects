@@ -34,7 +34,7 @@ Here is a list of the projects included in this repository:
 
 ## Usage
 
-You are free to explore and use the projects in this repository. Each project folder contains a README file with detailed instructions on how to use the specific Excel file, including any prerequisites or setup steps.
+You are free to explore and use the projects in this repository. 
 
 ### Prerequisites
 
@@ -55,5 +55,5 @@ If you'd like to contribute to this repository, feel free to fork the repo and c
 For any questions, feedback, or collaboration opportunities, feel free to reach out:
 
 - **Name:** Pradul OP
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **Email:** pradul2002@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/pradulop/)
