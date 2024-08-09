@@ -27,7 +27,7 @@ Open the `.xlsx` or `.xlsm` files in Microsoft Excel to explore the project.
 
 Here is a list of the projects included in this repository:
 
-1. **[Bike Sales Data Analysis](./Bike Sales)**
+1. **[Bike Sales](./Bike%20Sales)**
    - Description: Analyzing sales data using pivot tables, charts, Formulas and creating dashboard.
    - Skills: Pivot Tables, Charts, Dashboards, Formulas, Conditional Formatting.
 
