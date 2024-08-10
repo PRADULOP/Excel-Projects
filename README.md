@@ -30,6 +30,9 @@ Here is a list of the projects included in this repository:
 1. **[Bike Sales](./Bike%20Sales)**
    - Description: Analyzing sales data using pivot tables, charts, Formulas and creating dashboard.
    - Skills: Pivot Tables, Charts, Dashboards, Formulas, Conditional Formatting.
+2. **[Coffeshop Sales](./Bike%20Sa)**
+   - Description: Analyzing sales data using pivot tables, charts, Formulas and creating dashboard.
+   - Skills: Pivot Tables, Charts, Dashboards, Formulas, Conditional Formatting.   
 
 
 ## Usage
