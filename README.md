@@ -32,7 +32,7 @@ Here is a list of the projects included in this repository:
    - Skills: Pivot Tables, Charts, Dashboards, Formulas, Conditional Formatting.
 2. **[Coffeeshop Sales](./Coffeeshop_sales)**
    - Description: Analyzing sales data using pivot tables, charts, Formulas and creating dashboard.
-   - Skills: Pivot Tables, Charts, Dashboards, Formulas, Conditional Formatting.   
+   - Skills: Pivot Tables, Charts, Dashboards, Formulas, Power Pivot.   
 
 
 ## Usage
